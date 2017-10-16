@@ -1,0 +1,8 @@
+rose, red, 40
+rose, red, 35
+rose, white, 35
+rose, white, 35
+lily, white, ORIENTAL
+tulip, white
+tulip, red
+lily, white, AMeRICAN

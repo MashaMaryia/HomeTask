@@ -1,0 +1,16 @@
+
+Your bouquet consists of 7 flowers, where: 
+lily - 1
+rose - 4
+tulip - 2
+
+Details:
+tulip	WHITE
+tulip	RED
+rose	RED
+rose	RED
+rose	WHITE
+rose	WHITE
+lily	WHITE
+
+The cost of the bouquet is 86 rubles 
